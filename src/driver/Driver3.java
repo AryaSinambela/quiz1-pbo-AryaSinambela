@@ -1,3 +1,6 @@
+// Nama Praktikan:Arya Pratama Sinambela
+// NIM Praktikan: 12S24017 
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
